@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Sai-Constructions-app/static/css/main.2bca3ef3.css",
-    "main.js": "/Sai-Constructions-app/static/js/main.e2056142.js",
+    "main.js": "/Sai-Constructions-app/static/js/main.10daa72d.js",
     "static/media/sunset.jpg": "/Sai-Constructions-app/static/media/sunset.8814117de8f045615b12.jpg",
     "static/media/ImageOfTrucks.jpg": "/Sai-Constructions-app/static/media/ImageOfTrucks.c45bb65d977454c9aa6e.jpg",
     "static/media/ConstructionMaterials.jpg": "/Sai-Constructions-app/static/media/ConstructionMaterials.db5ed70f63a5cfc91ce1.jpg",
@@ -13,10 +13,10 @@
     "index.html": "/Sai-Constructions-app/index.html",
     "static/media/hero-bg.svg": "/Sai-Constructions-app/static/media/hero-bg.2237f2b6be81c21a80a6.svg",
     "main.2bca3ef3.css.map": "/Sai-Constructions-app/static/css/main.2bca3ef3.css.map",
-    "main.e2056142.js.map": "/Sai-Constructions-app/static/js/main.e2056142.js.map"
+    "main.10daa72d.js.map": "/Sai-Constructions-app/static/js/main.10daa72d.js.map"
   },
   "entrypoints": [
     "static/css/main.2bca3ef3.css",
-    "static/js/main.e2056142.js"
+    "static/js/main.10daa72d.js"
   ]
 }
