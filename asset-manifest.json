@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Sai-Constructions-app/static/css/main.2bca3ef3.css",
+    "main.js": "/Sai-Constructions-app/static/js/main.e2056142.js",
+    "static/media/sunset.jpg": "/Sai-Constructions-app/static/media/sunset.8814117de8f045615b12.jpg",
+    "static/media/ImageOfTrucks.jpg": "/Sai-Constructions-app/static/media/ImageOfTrucks.c45bb65d977454c9aa6e.jpg",
+    "static/media/ConstructionMaterials.jpg": "/Sai-Constructions-app/static/media/ConstructionMaterials.db5ed70f63a5cfc91ce1.jpg",
+    "static/media/emptyPlot.jpeg": "/Sai-Constructions-app/static/media/emptyPlot.04fe626c13326fb0cbee.jpeg",
+    "static/media/engineerInASite.jpg": "/Sai-Constructions-app/static/media/engineerInASite.d967786f377392114850.jpg",
+    "static/media/web-dev.svg": "/Sai-Constructions-app/static/media/web-dev.fd61237124f5b922e412437caf61ea58.svg",
+    "static/media/kws.png": "/Sai-Constructions-app/static/media/kws.877da8110793af2c3d27.png",
+    "static/media/footer.svg": "/Sai-Constructions-app/static/media/footer.f7b67a1234a7ce02c909.svg",
+    "index.html": "/Sai-Constructions-app/index.html",
+    "static/media/hero-bg.svg": "/Sai-Constructions-app/static/media/hero-bg.2237f2b6be81c21a80a6.svg",
+    "main.2bca3ef3.css.map": "/Sai-Constructions-app/static/css/main.2bca3ef3.css.map",
+    "main.e2056142.js.map": "/Sai-Constructions-app/static/js/main.e2056142.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2bca3ef3.css",
+    "static/js/main.e2056142.js"
+  ]
+}
